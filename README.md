@@ -33,7 +33,6 @@
 - ⚙️ &nbsp;Comfortable across the stack — React / Next.js front ends, .NET & Node.js back ends, event-driven microservices, and self-hosted Kubernetes
 - 🌱 &nbsp;Exploring AI-integrated products, distributed systems, and clean, swappable architecture
 - 🧩 &nbsp;Side projects: a local-first guide/documentation recorder (Next.js + Chrome MV3) and **MiniURL**, a distributed URL shortener running on my own self-hosted k8s cluster
-- 🖨️ &nbsp;Outside of code, I run a small 3D-printing studio (NFC & custom prints)
 - 📫 &nbsp;Reach me at **mdobaid311@gmail.com**
 
 ###
